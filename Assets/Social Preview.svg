@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="20" x2="1200" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A33"/>
+      <stop offset="1" stop-color="#102C4C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="82" y1="438" x2="535" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#37C6B1"/>
+      <stop offset="1" stop-color="#83D878"/>
+    </linearGradient>
+    <linearGradient id="check" x1="872" y1="213" x2="958" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#45D1BA"/>
+      <stop offset="1" stop-color="#80D971"/>
+    </linearGradient>
+    <filter id="shadow" x="631" y="70" width="603" height="541" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="18"/>
+      <feGaussianBlur stdDeviation="18"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.012 0 0 0 0 0.06 0 0 0 0 0.13 0 0 0 0.3 0"/>
+      <feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow" mode="normal" result="shape"/>
+    </filter>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#7E9CB8" fill-opacity=".28"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="1144" cy="80" r="256" fill="#1D5072" fill-opacity=".16"/>
+  <circle cx="1144" cy="80" r="184" stroke="#83D878" stroke-opacity=".13" stroke-width="1.5"/>
+  <circle cx="1144" cy="80" r="220" stroke="#66A9CB" stroke-opacity=".10" stroke-width="1.5"/>
+  <path d="M0 540C219 495 403 593 652 537V640H0V540Z" fill="#0A2441" fill-opacity=".65"/>
+  <rect x="48" y="454" width="210" height="136" fill="url(#dots)" opacity=".8"/>
+
+  <g>
+    <rect x="80" y="70" width="34" height="34" rx="10" fill="#173D5D"/>
+    <path d="M90 81.5H104M90 87H101M90 92.5H103" stroke="#64D6BF" stroke-width="2.4" stroke-linecap="round"/>
+    <text x="126" y="93" fill="#B6CADD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.1">ZCODINGSPACE</text>
+    <circle cx="261" cy="88" r="2.5" fill="#5DD0B8"/>
+    <text x="275" y="93" fill="#7F9BB5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="1.8">BY ZUHRA ALSAADI</text>
+  </g>
+
+  <text x="80" y="184" fill="#8FAFC9" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3.2">CAMBRIDGE ENGLISH</text>
+  <text x="76" y="270" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2.8">LinguaSkill</text>
+  <text x="80" y="337" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">Exam confirmation</text>
+  <rect x="81" y="370" width="250" height="5" rx="2.5" fill="#ECB316"/>
+  <text x="80" y="416" fill="#B9CCDC" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">A clean, polished, responsive HTML email template for sending </text>
+  <text x="80" y="445" fill="#B9CCDC" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">official LinguaSkill exam confirmations.</text>
+
+  <g transform="translate(80 504)">
+    <rect width="170" height="40" rx="20" fill="#153654" stroke="#2A5573"/>
+    <circle cx="19" cy="20" r="4" fill="#5DD0B8"/>
+    <text x="32" y="25" fill="#D9E6EF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">EMAIL TEMPLATE</text>
+    <rect x="180" width="165" height="40" rx="20" fill="#153654" stroke="#2A5573"/>
+    <circle cx="195" cy="20" r="4" fill="#5DD0B8"/>
+    <text x="205" y="25" fill="#D9E6EF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">READY TO SEND</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="687" y="104" width="500" height="456" rx="22" fill="#102B43"/>
+    <path d="M709 104H1165C1177.15 104 1187 113.85 1187 126V166H687V126C687 113.85 696.85 104 709 104Z" fill="#173750"/>
+    <circle cx="717" cy="135" r="5" fill="#F18E7B"/>
+    <circle cx="737" cy="135" r="5" fill="#F2C66D"/>
+    <circle cx="757" cy="135" r="5" fill="#66C7A2"/>
+    <rect x="904" y="124" width="206" height="22" rx="11" fill="#23445D"/>
+    <path d="M921 131.5L926 136L931 131.5" stroke="#A3B8C8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="1118" y="125" width="45" height="20" rx="10" fill="#294A62"/>
+    <path d="M1131 132.5H1150M1131 137.5H1146" stroke="#A0B5C5" stroke-width="1.5" stroke-linecap="round"/>
+
+    <text x="728" y="205" fill="#9CB3C5" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">EXAM REGISTRATION</text>
+    <circle cx="912" cy="260" r="43" fill="#173F4D"/>
+    <circle cx="912" cy="260" r="34" fill="#ECB316"/>
+    <path d="M896 260L907 271L929 248" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="937" y="331" text-anchor="middle" fill="#F0F6FA" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="-.5">Your exam is confirmed</text>
+    <text x="937" y="359" text-anchor="middle" fill="#A9BCCB" font-family="Arial, Helvetica, sans-serif" font-size="15">You’re all set. Here are your exam details.</text>
+
+    <rect x="728" y="387" width="418" height="1" fill="#29465B"/>
+    <g>
+      <rect x="728" y="406" width="42" height="42" rx="12" fill="#1B3B53"/>
+      <rect x="740" y="417" width="18" height="18" rx="3" stroke="#ECB316" stroke-width="1.8"/>
+      <path d="M740 423H758M745 414V420M753 414V420" stroke="#ECB316" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="785" y="422" fill="#9CB0C0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">EXAM DATE</text>
+      <text x="785" y="443" fill="#E5EDF3" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Your scheduled session</text>
+    </g>
+    <g>
+      <rect x="728" y="463" width="42" height="42" rx="12" fill="#1B3B53"/>
+      <circle cx="749" cy="484" r="9" stroke="#ECB316" stroke-width="1.8"/>
+      <path d="M749 478V484L753 487" stroke="#ECB316" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="785" y="479" fill="#9CB0C0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">NEXT STEP</text>
+      <text x="785" y="500" fill="#E5EDF3" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Check your inbox for instructions</text>
+    </g>
+    <rect x="728" y="524" width="418" height="1" fill="#29465B"/>
+    <text x="728" y="545" fill="#91A7B8" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing=".4">LINGUASKILL  ·  EXAM CONFIRMATION</text>
+    <circle cx="1134" cy="540" r="4" fill="#64C9AC"/>
+  </g>
+
+  <g opacity=".8">
+    <path d="M647 214V426" stroke="#3A6685" stroke-width="1.5" stroke-dasharray="3 8"/>
+    <circle cx="647" cy="200" r="4" fill="#64D6BF"/>
+    <circle cx="647" cy="440" r="4" fill="#83D878"/>
+  </g>
+</svg>
